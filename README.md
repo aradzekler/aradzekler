@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences **send me an email for my CV!)**
 
+<a href="https://stackoverflow.com/users/5352085/zedler"><img src="https://stackoverflow.com/users/flair/5352085.png" width="208" height="58" alt="profile for Zedler at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Zedler at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arad-zekler-881978123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arad-zekler-881978123" height="30" width="40" /></a>
