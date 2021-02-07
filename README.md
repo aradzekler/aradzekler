@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/5352085/zedler"><img src="https://stackoverflow.com/users/flair/5352085.png" width="208" height="58" alt="profile for Zedler at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Arad Zekler at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
 
 <div>
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=aradzekler&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aradzekler&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradzekler&layout=compact" />
 </div>
 
