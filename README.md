@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arad</h1>
 <h3 align="center">A passionate developer from Israel!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradzekler-ma&theme=gruvbox" alt="aradzekler" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aradzekler&theme=gruvbox" alt="aradzekler" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aradzekler](https://github.com/aradzekler)
 
